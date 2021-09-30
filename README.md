@@ -1,5 +1,7 @@
 <h3 align="center">
   My name is Haokai Li, I am a students from Mother Teresa High School.
+  <br/>
+  It is my school github.
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
