@@ -2,7 +2,7 @@
   My name is Haokai Li, I am a students from Mother Teresa High School.
   <br/>
   It is my school github.
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fottawacitizen.com%2Fnews%2Flocal-news%2Ffive-ottawa-schools-including-st-mother-teresa-high-have-current-outbreaks-of-covid-19&psig=AOvVaw3-rBn89QuOvwBsOInY6Q23&ust=1633109178074000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCLi2_fWbp_MCFQAAAAAdAAAAABAD" width="28">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
 ## ✍ Programming Languages
