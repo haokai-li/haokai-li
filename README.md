@@ -12,6 +12,19 @@
   <a href="https://github.com/search?q=user%3Ahaokai-li+language%3AGo"><img alt="Go" src="https://img.shields.io/badge/go-%2300ADD8.svg?logo=go&logoColor=white"></a>
   <a href="https://github.com/search?q=user%3Ahaokai-li+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
   <a href="https://github.com/search?q=user%3Ahaokai-li+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
+
+## 💻 Operatiing Systems
+  ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white)
+  ![IOS](https://img.shields.io/badge/iOS-000000?logo=ios&logoColor=white)
+
+## 🔧 Tools
+
+  ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+  ![Repl.it](https://img.shields.io/badge/Repl.it-%230D101E.svg?style=for-the-badge&logo=replit&logoColor=white)
+  
+  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+  
 <!---
 haokai-li/haokai-li is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
