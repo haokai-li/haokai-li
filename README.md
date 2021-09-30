@@ -7,7 +7,7 @@
 
 ## ✍ Programming Languages
 
-<p align="center">
+<p>
   <a href="https://github.com/search?q=user%3Ahaokai-li+language%3Acpp"><img alt="C++" src="https://custom-icon-badges.herokuapp.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white"></a>
   <a href="https://github.com/search?q=user%3Ahaokai-li+language%3AGo"><img alt="Go" src="https://img.shields.io/badge/go-%2300ADD8.svg?logo=go&logoColor=white"></a>
   <a href="https://github.com/search?q=user%3Ahaokai-li+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
