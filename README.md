@@ -4,7 +4,7 @@
   It is my school github.
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
-<a href = "https://teh.ocsb.ca/" align="center"> Mother Teresa High School </a>
+<p align="center">There is a link of <a href = "https://teh.ocsb.ca/"> Mother Teresa High School </a> and my student email <a href = "haokai.li@mths.ca"> Mother Teresa High School </a></p>
 
 ## ✍ Programming Languages
 
